@@ -1,4 +1,4 @@
-# MY-Trade-Journal-
+# MY-Trade-Journal
 My clean trade operating systems 
 # Halal Trading Engine — Core Master Project
 
